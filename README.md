@@ -23,3 +23,7 @@ Run the client program (or whichever program is supposed to send the message or 
 gcc client.c -o <name>
 ./<name>
 ```
+
+### Suggestion
+I don't endorse copy pasting the codes without understanding the process, because they'll have to be written in exams as well; better understand them in the labs to be prepared for both exams and viva since the viva involves questions based on the working of the codes.
+
